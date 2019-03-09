@@ -28,6 +28,11 @@ const quotes = [
         quote: 'If you aren’t embarrassed by the first version of your product, you shipped too late.',
         person: 'Reid Hoffman',
         image: 'https://pbs.twimg.com/profile_images/971127018023665664/cDRrTbCI_400x400.jpg'
+    },
+    {
+        quote: 'Get really efficient at the boring stuff or it will consume your life.',
+        person: 'Idk',
+        image: 'https://media.licdn.com/dms/image/C5603AQEdI2eOdOQbGw/profile-displayphoto-shrink_200_200/0?e=1557360000&v=beta&t=5-UsSj5MhWHMz6pVtQzrMo0LJxaoCQkTXUXMhoPnUsU'
     }
 ];
 
